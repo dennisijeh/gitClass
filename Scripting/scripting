@@ -1,0 +1,16 @@
+#!/bin/bash
+
+
+
+echo "Welcome to Bash Scripting."
+echo
+
+echo "The system uptime is: "
+Uptime
+
+echo "Memory Utilization is: "
+free -m
+
+echo "Disk Utilization: "
+df -h
+
